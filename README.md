@@ -1,5 +1,5 @@
 # COS-Custom-Operating-System
-Hello everyone, I have created a simple operating system called CoS, everything can name this operating system is up to you
+Hello everyone, I have created a simple operating system called CoS created with c++ only without assembly language, everything can name this operating system is up to you
 
 #Warning Erors in line 149 <--> 151
 
